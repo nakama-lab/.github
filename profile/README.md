@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Nakama Lab Logo" width="200"/>
+  <img profile="assets/nakamaLogo.png" alt="Nakama Lab Logo" width="200"/>
 </p>
 
 ## Hi there 👋
